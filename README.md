@@ -1,5 +1,5 @@
 # veterinario full stack registro
-En este proyecto, desarrollaremos una página web donde los veterinarios podrán crear una cuenta para administrar a sus pacientes. Los usuarios también podrán agregar, editar y eliminar pacientes. En la sección de perfil, los propios veterinarios podrán editar su información, como el nombre, correo electrónico e información adicional.
+En este proyecto,se desarrollo una página web donde los veterinarios podrán crear una cuenta para administrar a sus pacientes. Los usuarios también podrán agregar, editar y eliminar pacientes. En la sección de perfil, los propios veterinarios podrán editar su información, como el nombre, correo electrónico e información adicional.
 <br></br>
 ## Pagina principal de inicio de sesion 
 ![image](https://github.com/miguelapol/veterinario_full_stack/assets/33709574/8a6736a8-983a-4397-9e14-e7efe5a7349f)
